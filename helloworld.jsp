@@ -1,5 +1,3 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -51,26 +49,39 @@
     <h1>🐾 Cute Cat Breeds 🐾</h1>
 
     <div class="cat-container">
+
         <div class="cat-card">
-            <img src="images/persian.jpg" alt="Persian Cat">
+            <a href="https://i.ibb.co/Vpr3kcxN/persian.jpg" target="_blank">
+                <img src="https://i.ibb.co/Vpr3kcxN/persian.jpg" alt="Persian Cat">
+            </a>
             <h3>Persian Cat</h3>
             <p>Fluffy and calm, known for its luxurious coat.</p>
         </div>
+
         <div class="cat-card">
-            <img src="images/siamese.jpg" alt="Siamese Cat">
+            <a href="https://i.ibb.co/5xB9WC85/siamese.jpg" target="_blank">
+                <img src="https://i.ibb.co/5xB9WC85/siamese.jpg" alt="Siamese Cat">
+            </a>
             <h3>Siamese Cat</h3>
             <p>Elegant, talkative, and very affectionate.</p>
         </div>
+
         <div class="cat-card">
-            <img src="images/mainecoon.jpg" alt="Maine Coon Cat">
+            <a href="https://i.ibb.co/sfMTSnS/mainecoon.jpg" target="_blank">
+                <img src="https://i.ibb.co/sfMTSnS/mainecoon.jpg" alt="Maine Coon Cat">
+            </a>
             <h3>Maine Coon</h3>
             <p>Gentle giant with a friendly personality.</p>
         </div>
+
         <div class="cat-card">
-            <img src="images/bengal.jpg" alt="Bengal Cat">
+            <a href="https://i.ibb.co/p6pK6w2P/bengal.jpg" target="_blank">
+                <img src="https://i.ibb.co/p6pK6w2P/bengal.jpg" alt="Bengal Cat">
+            </a>
             <h3>Bengal Cat</h3>
             <p>Active and playful with beautiful spotted fur.</p>
         </div>
+
     </div>
 </body>
 </html>
